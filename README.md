@@ -30,7 +30,7 @@ N/A
 
 ## Usage
 
-[Screenshot of Website](./assets/imgs/screenshot.jpeg?raw=true "Screenshot")
+![Screenshot of Website](./assets/imgs/screenshot.jpeg?raw=true "Screenshot")
 [Link to Application](https://github.com/Vinoshan/Challenge-2-Portfolio)
 
 ## Contributing
