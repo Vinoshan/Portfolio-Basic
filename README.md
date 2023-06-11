@@ -47,7 +47,7 @@ The project is licensed under the MIT License.
 
 If you have any questions, feedback, or inquiries, feel free to contact the developer:
 
-Email: vinoshan@outlook.com
+Email: placeholder
 Website: placeholder
-LinkedIn: vinoshank
+LinkedIn: placeholder
 Twitter: placeholder
