@@ -31,7 +31,7 @@ N/A
 ## Usage
 
 ![Screenshot of Website](./assets/imgs/screenshot.jpeg?raw=true "Screenshot")
-[Link to Application](https://vinoshan.github.io/Challenge-2-Portfolio/)
+[Link to Application](https://vinoshan.github.io/Portfolio-Basic/)
 
 ## Contributing
 
